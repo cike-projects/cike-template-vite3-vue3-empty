@@ -21,3 +21,4 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 - yarn add element-plus
 - yarn add @element-plus/icons-vue
 - yarn add axios
+- yarn add pinia
